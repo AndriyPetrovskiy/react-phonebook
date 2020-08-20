@@ -1,0 +1,20 @@
+ul{
+    list-style: none;
+    width: 50%;
+    margin: auto;
+}
+
+li {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #60AEBF;
+    margin: 25px;
+    color: floralwhite;
+    padding: 15px 50px;
+    border-radius: 10px;
+}
+
+.form_name {
+    font-weight: 900;
+}
